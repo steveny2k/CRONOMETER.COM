@@ -140,7 +140,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [steveny2k/CRONOMETER.COM](https://github.com/steveny2k/CRONOMETER.COM)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|314<br/>Tools used|12/08/23 <br/>Report generated|
+|321<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -771,9 +771,9 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (241)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (248)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (241)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (248)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -839,6 +839,7 @@ Full tech stack [here](/techstack.md)
 |[chai-as-promised](https://www.npmjs.com/chai-as-promised)|v7.1.1|09/30/22|Rohit sahu |WTFPL|N/A|
 |[chai-string](https://www.npmjs.com/chai-string)|v1.3.0|09/30/22|Rohit sahu |MIT|N/A|
 |[chai-subset](https://www.npmjs.com/chai-subset)|v1.6.0|09/30/22|Rohit sahu |MIT|N/A|
+|[chalk](https://www.npmjs.com/chalk)|v4.1.2|09/30/22|Rohit sahu |MIT|N/A|
 |[cheerio](https://www.npmjs.com/cheerio)|v1.0.0|09/30/22|Rohit sahu |MIT|N/A|
 |[chokidar](https://www.npmjs.com/chokidar)|v3.5.3|09/30/22|Rohit sahu |MIT|N/A|
 |[clang-format](https://www.npmjs.com/clang-format)|v1.4.0|09/30/22|Rohit sahu |Apache-2.0|N/A|
@@ -901,6 +902,7 @@ Full tech stack [here](/techstack.md)
 |[hbs](https://www.npmjs.com/hbs)|v4.2.0|09/30/22|Rohit sahu |MIT|N/A|
 |[http-errors](https://www.npmjs.com/http-errors)|v2.0.0|09/30/22|Rohit sahu |MIT|N/A|
 |[https-proxy-agent](https://www.npmjs.com/https-proxy-agent)|v5.0.1|09/30/22|Rohit sahu |MIT|N/A|
+|[husky](https://www.npmjs.com/husky)|v0.13.3|09/30/22|Rohit sahu |MIT|N/A|
 |[hyperquest](https://www.npmjs.com/hyperquest)|v2.1.3|09/30/22|Rohit sahu |MIT|N/A|
 |[iconv](https://www.npmjs.com/iconv)|N/A|09/30/22|Rohit sahu |ISC|N/A|
 |[iconv-lite](https://www.npmjs.com/iconv-lite)|v0.4.24|09/30/22|Rohit sahu |MIT|N/A|
@@ -912,6 +914,7 @@ Full tech stack [here](/techstack.md)
 |[is-buffer](https://www.npmjs.com/is-buffer)|v1.1.6|09/30/22|Rohit sahu |MIT|N/A|
 |[is-glob](https://www.npmjs.com/is-glob)|v4.0.3|09/30/22|Rohit sahu |MIT|N/A|
 |[js-yaml](https://www.npmjs.com/js-yaml)|v4.1.0|09/30/22|Rohit sahu |MIT|N/A|
+|[jscs](https://www.npmjs.com/jscs)|v3.0.7|09/30/22|Rohit sahu |MIT|N/A|
 |[jsonwebtoken](https://www.npmjs.com/jsonwebtoken)|v8.5.1|09/29/22|Rohit sahu |MIT|[CVE-2022-23529](https://github.com/advisories/GHSA-27h2-hvpr-p74q) (High)<br/>[CVE-2022-23539](https://github.com/advisories/GHSA-8cf7-32gw-wr33) (Moderate)<br/>[CVE-2022-23540](https://github.com/advisories/GHSA-qwph-4952-7xr6) (Moderate)<br/>[CVE-2022-23541](https://github.com/advisories/GHSA-hjrf-2m68-5959) (Moderate)|
 |[karma-browserify](https://www.npmjs.com/karma-browserify)|v6.0.0|09/30/22|Rohit sahu |MIT|N/A|
 |[karma-chai](https://www.npmjs.com/karma-chai)|v0.1.0|09/30/22|Rohit sahu |MIT|N/A|
@@ -921,6 +924,7 @@ Full tech stack [here](/techstack.md)
 |[karma-phantomjs-launcher](https://www.npmjs.com/karma-phantomjs-launcher)|v1.0.2|09/30/22|Rohit sahu |MIT|N/A|
 |[karma-rollup-preprocessor](https://www.npmjs.com/karma-rollup-preprocessor)|v7.0.5|09/30/22|Rohit sahu |MIT|N/A|
 |[karma-sinon](https://www.npmjs.com/karma-sinon)|v1.0.5|09/30/22|Rohit sahu |MIT|N/A|
+|[lint-staged](https://www.npmjs.com/lint-staged)|v3.4.1|09/30/22|Rohit sahu |MIT|N/A|
 |[lodash.includes](https://www.npmjs.com/lodash.includes)|v4.3.0|09/30/22|Rohit sahu |MIT|N/A|
 |[lodash.isequal](https://www.npmjs.com/lodash.isequal)|v4.5.0|09/30/22|Rohit sahu |MIT|N/A|
 |[lodash.isplainobject](https://www.npmjs.com/lodash.isplainobject)|v4.0.6|09/30/22|Rohit sahu |MIT|N/A|
@@ -928,7 +932,7 @@ Full tech stack [here](/techstack.md)
 |[lolex](https://www.npmjs.com/lolex)|v2.6.0|09/30/22|Rohit sahu |BSD-3-Clause|N/A|
 |[lru-cache](https://www.npmjs.com/lru-cache)|v6.0.0|09/30/22|Rohit sahu |ISC|N/A|
 |[make-dir](https://www.npmjs.com/make-dir)|v3.1.0|09/30/22|Rohit sahu |MIT|N/A|
-|[marked](https://www.npmjs.com/marked)|v0.7.0|09/30/22|Rohit sahu |MIT|[CVE-2022-21680](https://github.com/advisories/GHSA-rrrm-qjm4-v8hf) (High)<br/>[CVE-2022-21681](https://github.com/advisories/GHSA-5v2h-r2cx-5xgj) (High)|
+|[marked](https://www.npmjs.com/marked)|v0.7.0|09/30/22|Rohit sahu |MIT|[CVE-2022-21681](https://github.com/advisories/GHSA-5v2h-r2cx-5xgj) (High)<br/>[CVE-2022-21680](https://github.com/advisories/GHSA-rrrm-qjm4-v8hf) (High)|
 |[merge-descriptors](https://www.npmjs.com/merge-descriptors)|v1.0.1|09/30/22|Rohit sahu |MIT|N/A|
 |[method-override](https://www.npmjs.com/method-override)|v3.0.0|09/30/22|Rohit sahu |MIT|N/A|
 |[methods](https://www.npmjs.com/methods)|v1.1.2|09/30/22|Rohit sahu |MIT|N/A|
@@ -986,6 +990,7 @@ Full tech stack [here](/techstack.md)
 |[safe-buffer](https://www.npmjs.com/safe-buffer)|v5.2.1|09/30/22|Rohit sahu |MIT|N/A|
 |[safe-publish-latest](https://www.npmjs.com/safe-publish-latest)|v1.1.4|09/30/22|Rohit sahu |MIT|N/A|
 |[seedrandom](https://www.npmjs.com/seedrandom)|v2.4.3|09/30/22|Rohit sahu |MIT|N/A|
+|[semantic-release](https://www.npmjs.com/semantic-release)|v18.0.0|09/30/22|Rohit sahu |MIT|[CVE-2022-31051](https://github.com/advisories/GHSA-x2pg-mjhr-2m5x) (Moderate)|
 |[semistandard](https://www.npmjs.com/semistandard)|v14.2.3|09/30/22|Rohit sahu |MIT|N/A|
 |[semver](https://www.npmjs.com/semver)|v7.3.7|09/30/22|Rohit sahu |ISC|[CVE-2022-25883](https://github.com/advisories/GHSA-c2qf-rxjj-qqgw) (Moderate)|
 |[send](https://www.npmjs.com/send)|v0.18.0|09/30/22|Rohit sahu |MIT|N/A|
@@ -1001,6 +1006,7 @@ Full tech stack [here](/techstack.md)
 |[strip-ansi](https://www.npmjs.com/strip-ansi)|v6.0.1|09/30/22|Rohit sahu |MIT|N/A|
 |[supports-color](https://www.npmjs.com/supports-color)|v5.5.0|09/30/22|Rohit sahu |MIT|N/A|
 |[tap](https://www.npmjs.com/tap)|v16.0.0|09/30/22|Rohit sahu |ISC|N/A|
+|[tape](https://www.npmjs.com/tape)|v5.5.2|09/30/22|Rohit sahu |MIT|N/A|
 |[tar](https://www.npmjs.com/tar)|v6.1.11|09/30/22|Rohit sahu |ISC|N/A|
 |[tar-fs](https://www.npmjs.com/tar-fs)|v2.1.1|09/30/22|Rohit sahu |MIT|N/A|
 |[tar-stream](https://www.npmjs.com/tar-stream)|v1.6.2|09/30/22|Rohit sahu |MIT|N/A|
@@ -1017,6 +1023,7 @@ Full tech stack [here](/techstack.md)
 |[utils-merge](https://www.npmjs.com/utils-merge)|v1.0.1|09/30/22|Rohit sahu |MIT|N/A|
 |[uuid](https://www.npmjs.com/uuid)|v8.3.2|09/30/22|Rohit sahu |MIT|N/A|
 |[xml2js](https://www.npmjs.com/xml2js)|v0.4.23|09/30/22|Rohit sahu |MIT|[CVE-2023-0842](https://github.com/advisories/GHSA-776f-qx25-q3cc) (Moderate)|
+|[xo](https://www.npmjs.com/xo)|v0.25.3|09/30/22|Rohit sahu |MIT|N/A|
 |[yargs](https://www.npmjs.com/yargs)|v16.2.0|09/30/22|Rohit sahu |MIT|N/A|
 
 <br/>
