@@ -2,7 +2,7 @@ repo_name: steveny2k/CRONOMETER.COM
 report_id: 99086cb928dfef32e9af35629af07884
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T08:57:35+00:00'
+timestamp: '2024-02-29T18:36:07+00:00'
 requested_by: swapnilpreet
 provider: github
 branch: main
@@ -190,7 +190,7 @@ tools:
   last_updated_by: SK-WebDeveloper
   last_updated_on: 2022-09-28 17:25:53.000000000 Z
 - name: ServiceStack
-  description: 'A configuration free, code-first, light-weight framework '
+  description: A configuration free, code-first, light-weight framework
   website_url: https://servicestack.net/
   open_source: false
   hosted_saas: false
@@ -529,7 +529,7 @@ tools:
   last_updated_by: Rohit sahu
   last_updated_on: 2022-09-30 17:14:50.000000000 Z
 - name: Prettier
-  description: 'Prettier is an opinionated code formatter. '
+  description: Prettier is an opinionated code formatter.
   website_url: https://prettier.io/
   version: 2.7.1
   license: MIT
@@ -568,7 +568,7 @@ tools:
   last_updated_by: Rohit sahu
   last_updated_on: 2022-09-30 17:14:50.000000000 Z
 - name: Split
-  description: 'Split provides a unified solution for feature flags and experimentation '
+  description: Split provides a unified solution for feature flags and experimentation
   website_url: http://www.split.io
   open_source: false
   hosted_saas: true
@@ -580,7 +580,7 @@ tools:
   last_updated_by: Rohit sahu
   last_updated_on: 2022-09-30 17:14:50.000000000 Z
 - name: SuperTest
-  description: 'A library for testing node.js HTTP servers '
+  description: A library for testing node.js HTTP servers
   website_url: https://www.npmjs.com/package/supertest
   version: 6.2.2
   license: MIT
@@ -2822,6 +2822,13 @@ tools:
   detection_source: Backend/node_modules/socks/package.json
   last_updated_by: Rohit sahu
   last_updated_on: 2022-09-30 17:14:50.000000000 Z
+  vulnerabilities:
+  - name: NPM IP package incorrectly identifies some private IP addresses as public
+    cve_id: CVE-2023-42282
+    cve_url: https://github.com/advisories/GHSA-78xj-cgh5-2h22
+    detected_date: Feb 10
+    severity: moderate
+    first_patched: 2.0.1
 - name: ipaddr.js
   description: A library for manipulating IPv4 and IPv6 addresses in JavaScript
   package_url: https://www.npmjs.com/ipaddr.js
